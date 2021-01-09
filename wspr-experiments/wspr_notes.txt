@@ -1,0 +1,3 @@
+date	antenna	orientation	notes
+2020-01-07 00:00 UTC	Whizz Whip	Vertical
+2020-01-09 00:00 UTC	Wonderloop	Pointing SE
