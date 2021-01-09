@@ -14,5 +14,12 @@ head(dat)
 str(as.Date(dat$date))
 ```
 
+Quick test - we're going to be adding vertical lines...
+
+```{r}
+ggplot(data = mtcars, aes(x = wt, y = mpg)) +
+  geom_point() +
+  geom_vline(xintercept = c(2, 3), linetype = "dashed")
+```
 
 
