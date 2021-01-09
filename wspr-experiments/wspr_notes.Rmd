@@ -6,7 +6,7 @@ output: html_notebook
 
 
 ```{r}
-dat <- read.csv("wspr_notes.txt", sep = "\t")
+dat <- read.csv("https://raw.githubusercontent.com/InductiveStep/Public-data/main/wspr-experiments/wspr_notes.txt", sep = "\t")
 head(dat)
 ```
 
