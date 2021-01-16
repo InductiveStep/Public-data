@@ -3,3 +3,4 @@ date	antenna	orientation	Notes
 2021-01-10 00:00 UTC	Wonderloop	Pointing SE	(Approx direction...)
 2021-01-11 21:55 UTC	Wonderloop	Pointing E	(Approx direction...)
 2021-01-12 20:45 UTC	NONE
+2021-01-16 15:00 UTC	Wonderloop	Pointing SE	(Approx direction...) On windowsill
