@@ -6,4 +6,4 @@ date	antenna	orientation	Notes
 2021-01-16 15:00 UTC	Wonderloop	Pointing SE	On window sill (5 bars power FT818)
 2021-01-20 23:04 UTC	Wonderloop (lower pwr)	Pointing SE	On window sill (3 bars power FT818)
 2021-01-26 23:00 UTC	(Radio off)
-2021-01-20 23:12 UTC	Wonderloop (lower pwr)	Pointing SE	On window sill (3 bars power FT818)
+2021-01-26 23:12 UTC	Wonderloop (lower pwr)	Pointing SE	On window sill (3 bars power FT818)
